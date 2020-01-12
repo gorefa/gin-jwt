@@ -1,4 +1,4 @@
-module awesomeProject
+module github.com/gorefa/gin-jwt
 
 go 1.13
 
