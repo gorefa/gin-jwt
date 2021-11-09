@@ -1,3 +1,8 @@
+
+
+
+![example workflow](https://github.com/gorefa/gin-jwt/actions/workflows/go.yml/badge.svg)
+
 ```bash
 http -v --json POST localhost:8081/login username=admin password=admin
 
